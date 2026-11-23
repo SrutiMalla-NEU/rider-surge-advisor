@@ -11,3 +11,5 @@ Version 1 is trained on New York City public trip records (TLC), weather, holida
 1. `python -m venv .venv` and activate it
 2. `pip install -r requirements.txt`
 3. `python -m src.download` to download the TLC data (see `data/SOURCES.md`)
+
+© 2026 Sruti Smitha Malla. All rights reserved.
